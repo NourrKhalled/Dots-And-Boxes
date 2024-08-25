@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1703307292 source:o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\functions\functions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"Structures.h"
+	"HumanVSHumanBEGMODE.h"
+	"Display.h"
+	"menu.h"
+
+1703262980 o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\functions\functions\ansicolors.h
+
+1703263655 source:o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\functions\functions\structures.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1703264493 source:o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\functions\functions\structures.h
+
+1703292929 o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\functions\functions\structures.h
+
+1703264368 source:o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\functions\functions\humanvshuman.h
+	<stdio.h>
+	<stdlib.h>
+	"Structures.h"
+
+1703306643 o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\functions\functions\humanvshuman.h
+
+1703307323 o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\functions\functions\display.h
+
+1703285110 o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\functions\functions\menu.h
+
+1703307642 o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\functions\functions\humanvshumanbegmode.h
+
+1703978977 source:o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\dots and boxes fp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structures.h"
+	"HumanVSHumanBEGMODE.h"
+	"Display.h"
+	"Menu.h"
+	"ComputerVSHumanBEGMODE.h"
+	"ExtraFunctions.h"
+	"EXPmode.h"
+
+1703380462 o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\dots and boxes fp\structures.h
+
+1703984955 o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\dots and boxes fp\humanvshumanbegmode.h
+
+1703958370 o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\dots and boxes fp\display.h
+
+1703984322 o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\dots and boxes fp\menu.h
+
+1703345540 o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\dots and boxes fp\computervshuman.h
+
+1703978977 o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\dots and boxes fp\computervshumanbegmode.h
+
+1703990817 o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\dots and boxes fp\extrafunctions.h
+
+1703984540 o:\school\faculty of engineering\first year\first term\programming-1\programs\final project\dots and boxes fp\expmode.h
+
+1704094634 source:o:\school\faculty of engineering\first year\first term\programming-1\dots and boxes fp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"HumanVSHumanBEGMODE.h"
+	"Display.h"
+	"Menu.h"
+	"ComputerVSHumanBEGMODE.h"
+	"ExtraFunctions.h"
+	"EXPmode.h"
+
+1703380462 o:\school\faculty of engineering\first year\first term\programming-1\dots and boxes fp\structures.h
+
+1704075861 o:\school\faculty of engineering\first year\first term\programming-1\dots and boxes fp\humanvshumanbegmode.h
+
+1704117165 o:\school\faculty of engineering\first year\first term\programming-1\dots and boxes fp\display.h
+
+1704115868 o:\school\faculty of engineering\first year\first term\programming-1\dots and boxes fp\menu.h
+
+1704075087 o:\school\faculty of engineering\first year\first term\programming-1\dots and boxes fp\computervshumanbegmode.h
+
+1704116932 o:\school\faculty of engineering\first year\first term\programming-1\dots and boxes fp\extrafunctions.h
+
+1704116538 o:\school\faculty of engineering\first year\first term\programming-1\dots and boxes fp\expmode.h
+
